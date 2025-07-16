@@ -11,7 +11,7 @@
 🌱 I’m currently learning **React.js**, **System Design**, and **AI/Web integrations**  
 💬 Ask me about Backend Development, REST APIs, MongoDB, or Problem Solving
 
-📫 Reach out: **rushiyalamanchili03@gmail.com**  
+📫 Reach out: **yalamanchilirushi8@gmail.com**  
 📄 [View My Resume](https://drive.google.com/file/d/1MEwCb7q9kJtt6ARn64LrwdANx54BNjgw/view?usp=sharing)
 
 ⚡ Fun Fact: I'm also a **lead singer** and part of the Telugu Sahithi Samithi’s music club – *Paataku Pranam Pallavi Ayte* 🎤🎶
