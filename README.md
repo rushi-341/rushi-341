@@ -12,14 +12,14 @@
 💬 Ask me about Backend Development, REST APIs, MongoDB, or Problem Solving
 
 📫 Reach out: **rushiyalamanchili03@gmail.com**  
-📄 [View My Resume](#) <!-- Add your resume link here -->
+📄 [View My Resume](https://drive.google.com/file/d/1MEwCb7q9kJtt6ARn64LrwdANx54BNjgw/view?usp=sharing)
 
 ⚡ Fun Fact: I'm also a **lead singer** and part of the Telugu Sahithi Samithi’s music club – *Paataku Pranam Pallavi Ayte* 🎤🎶
 
 ---
 
 ### 🌐 Connect with me:
-[LinkedIn](https://www.linkedin.com/) • [Portfolio](#) • [GitHub](https://github.com/rushiyalamanchili)
+[LinkedIn](https://www.linkedin.com/in/rushiyalamanchili/) • [Portfolio](#) • [GitHub](https://github.com/rushi-341)
 
 ---
 
@@ -38,13 +38,5 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
-<!-- Optional: Add these if you want to show off stats -->
-### 📊 GitHub Stats
-![Rushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rushiyalamanchili&show_icons=true&theme=radical)
-
-<!-- Optional: Add these if you want to show LeetCode or GFG stats -->
-<!-- You can generate a leetcode card here: https://leetcode-stats.vercel.app/ -->
-
 ---
 
